@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background: tomato;
+  align-items: center;
+  min-height: 10vh;
+}
+.list {
+  list-style: none;
+}
